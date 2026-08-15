@@ -24,7 +24,6 @@ Atualmente curso a graduação em Ciência e Tecnologia com Ênfase em Computaç
 ### 📈 Projetos em Destaque
 
 * **[NewStyle_API]** - API RESTful para e-commerce desenvolvida com Django REST Framework.
-* **[Rotulare]** - Lógica de back-end e dashboards para uma plataforma multiusuário de restaurantes.
 * **[Núcleo Criptográfico]** - Implementação de arquitetura criptográfica (AES-256 reduzida para 16 bits) utilizando VHDL.
 
 ---
