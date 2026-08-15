@@ -1,4 +1,4 @@
-# Olá, eu sou o José (Joseph)! 👋
+# Olá, eu sou o José Fernandes! 👋
 
 ### Desenvolvedor Back-end | Estudante de Ciência e Tecnologia com Ênfase em Computação
 
