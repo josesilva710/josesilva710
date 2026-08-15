@@ -24,9 +24,9 @@ Atualmente curso a graduação em Ciência e Tecnologia com Ênfase em Computaç
 
 ### 📈 Projetos em Destaque
 
-* **[NewStyle_API](COLOQUE-SEU-LINK-AQUI)** - API RESTful para e-commerce desenvolvida com Django REST Framework.
+* **[NewStyle_API](https://github.com/josesilva710/NewStyle_API)** - API RESTful para e-commerce desenvolvida com Django REST Framework.
 <!-- * **[Rotulare]** - Lógica de back-end e dashboards para uma plataforma multiusuário de restaurantes. -->
-* **[Núcleo Criptográfico](COLOQUE-SEU-LINK-AQUI)** - Implementação de arquitetura criptográfica (AES-256 reduzida para 16 bits) utilizando VHDL.
+* **[Núcleo Criptográfico](https://github.com/josesilva710/Criptografia-AES-16)** - Implementação de arquitetura criptográfica (AES-256 reduzida para 16 bits) utilizando VHDL.
 
 ---
 📫 **Como me encontrar:** [LinkedIn](COLOQUE-SEU-LINK-DO-LINKEDIN-AQUI)
