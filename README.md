@@ -8,8 +8,9 @@ Atualmente curso a graduação em Ciência e Tecnologia com Ênfase em Computaç
 
 ### 🚀 O que eu faço
 
-* 💻 **Desenvolvimento Web:** Construção de lógicas de back-end, APIs RESTful e modelagem de banco de dados, com foco em sistemas práticos como plataformas de e-commerce e restaurantes.
+* 💻 **Desenvolvimento Web:** Construção de lógicas de back-end, APIs RESTful e modelagem de banco de dados, com foco em sistemas práticos como plataformas de e-commerce.
 * ⚙️ **Arquitetura & Hardware:** Experiência com programação de baixo nível, lógica digital e linguagens de descrição de hardware.
+* 🏢 **Vivência Empresarial (EJECT):** Faço parte da Empresa Júnior de Escola de Ciências e Tecnologia da UFRN, atuando no desenvolvimento back-end e colaborando na construção de soluções tecnológicas estruturadas.
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -23,8 +24,9 @@ Atualmente curso a graduação em Ciência e Tecnologia com Ênfase em Computaç
 
 ### 📈 Projetos em Destaque
 
-* **[NewStyle_API]** - API RESTful para e-commerce desenvolvida com Django REST Framework.
-* **[Núcleo Criptográfico]** - Implementação de arquitetura criptográfica (AES-256 reduzida para 16 bits) utilizando VHDL.
+* **[NewStyle_API](COLOQUE-SEU-LINK-AQUI)** - API RESTful para e-commerce desenvolvida com Django REST Framework.
+<!-- * **[Rotulare]** - Lógica de back-end e dashboards para uma plataforma multiusuário de restaurantes. -->
+* **[Núcleo Criptográfico](COLOQUE-SEU-LINK-AQUI)** - Implementação de arquitetura criptográfica (AES-256 reduzida para 16 bits) utilizando VHDL.
 
 ---
-📫 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/josesilvags/)
+📫 **Como me encontrar:** [LinkedIn](COLOQUE-SEU-LINK-DO-LINKEDIN-AQUI)
