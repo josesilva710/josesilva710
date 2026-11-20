@@ -8,7 +8,7 @@ Atualmente curso a graduação em Ciência e Tecnologia com Ênfase em Computaç
 
 ### 🚀 O que eu faço
 
-* 💻 **Desenvolvimento Web:** Construção de lógicas de back-end, APIs RESTful e modelagem de banco de dados, com foco em sistemas práticos como plataformas de e-commerce.
+* 💻 **Desenvolvimento Web:** Construção de lógicas de back-end, APIs RESTful e modelagem de banco de dados, com foco em sistemas práticos como plataformas de e-commerce e sistemas de gerenciamento.
 * ⚙️ **Arquitetura & Hardware:** Experiência com programação de baixo nível, lógica digital e linguagens de descrição de hardware.
 * 🏢 **Vivência Empresarial (EJECT):** Faço parte da Empresa Júnior de Escola de Ciências e Tecnologia da UFRN, atuando no desenvolvimento back-end e colaborando na construção de soluções tecnológicas estruturadas.
 
